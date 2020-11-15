@@ -169,3 +169,4 @@ curl -L --output workflow-remote-loader.hpi https://updates.jenkins.io/download/
 curl -L --output workflow-scm-step.hpi https://updates.jenkins.io/download/plugins/workflow-scm-step/2.11/workflow-scm-step.hpi
 curl -L --output workflow-step-api.hpi https://updates.jenkins.io/download/plugins/workflow-step-api/2.23/workflow-step-api.hpi
 curl -L --output workflow-support.hpi https://updates.jenkins.io/download/plugins/workflow-support/3.6/workflow-support.hpi
+curl -L --output multiple-scms.hpi https://updates.jenkins.io/download/plugins/multiple-scms/0.6/multiple-scms.hpi
